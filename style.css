@@ -1,0 +1,18 @@
+#box-container {
+    height: 500px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+#box-1 {
+    background-color: rgb(34, 3, 63);
+    width: 50%;
+    height: 50%;
+}
+
+#box-2 {
+    background-color: burlywood;
+    width: 50%;
+    height: 50%;
+}   
